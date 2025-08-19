@@ -14,7 +14,11 @@ This simulates a library system where book information is stored and retrieved.
 
 ## Program Output:
 Name of the book is: Pride and Prejudice
+
 With number: 1BK9273
+
 Written By: Jane Austen
+
 Genre of the book is: Fiction
+
 Compartment No.: 234
