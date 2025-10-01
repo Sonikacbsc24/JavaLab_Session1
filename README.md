@@ -1,5 +1,5 @@
 # JavaLab_Session1
-Java program to store and display book details
+Java program to store and display book details.
 This Java program demonstrates the use of classes, objects, constructors, and the this keyword.
 
 A class Book is created with attributes: book name, book number, author, genre, and compartment number.
